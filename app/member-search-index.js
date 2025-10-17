@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ca.ualberta.aahilnaz.listycity","c":"ExampleUnitTest","l":"addition_isCorrect()"},{"p":"ca.ualberta.aahilnaz.listycity","c":"ExampleUnitTest","l":"ExampleUnitTest()","u":"%3Cinit%3E()"}];updateSearchResults();
